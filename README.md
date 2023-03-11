@@ -1,5 +1,5 @@
 # UpstartBot
-A New Variation of SystemdBot, running on discord.py
+A New Variation of SystemdBot, running on discord.js
 
 <img src="./assets/logo.png"><br>
 
@@ -11,7 +11,7 @@ A New Variation of SystemdBot, running on discord.py
   <a href="https://github.com/thetechxplore/UpstartBot/issues" alt="Issues"><img src="https://img.shields.io/github/issues/thetechxplore/UpstartBot"></img></a>
 </p>
 A discord bot designed for my server (private bot). Rewritten in
-Python using Discord.py. Its founding Project can be found in
+JavaScript using Discord.JS. Its founding Project can be found in
 <a href="https://github.com/thetechxplore/SystemdBot">another repository</a>
 
 You can contribute whatever you want to improve the bot with additional features
@@ -21,7 +21,17 @@ bug fixes.
 
 # Features
 
-Feature List Not Available Yet
+Feature List Not Available Yet:
+
+Here are some features I want to Implement. If you know how to do something like this, contact me:
+Auto Creation of Channel if it doesn't exist
+A Subreddit Autopost
+Autorole Support (With Automatic Role Add when agreeing to Screening
+Bump Reminder that Awards 300XP
+Level system (Preferably with SQLite)
+Multiple prefixes
+Proper Music support
+Warning System, as well as an Automod
 
 # Build the bot and self-host
 
