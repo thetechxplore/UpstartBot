@@ -29,7 +29,7 @@ Auto Creation of Channel if it doesn't exist
 
 A Subreddit Autopost
 
-Autorole Support (With Automatic Role Add when agreeing to Screening
+Autorole Support (With Automatic Role Add when agreeing to Screening)
 
 Bump Reminder that Awards 300XP
 
