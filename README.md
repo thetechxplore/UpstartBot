@@ -24,13 +24,21 @@ bug fixes.
 Feature List Not Available Yet:
 
 Here are some features I want to Implement. If you know how to do something like this, contact me:
+
 Auto Creation of Channel if it doesn't exist
+
 A Subreddit Autopost
+
 Autorole Support (With Automatic Role Add when agreeing to Screening
+
 Bump Reminder that Awards 300XP
+
 Level system (Preferably with SQLite)
+
 Multiple prefixes
+
 Proper Music support
+
 Warning System, as well as an Automod
 
 # Build the bot and self-host
