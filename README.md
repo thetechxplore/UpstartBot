@@ -1,8 +1,6 @@
 # UpstartBot
 A New Variation of SystemdBot, running on discord.js
 
-<img src="./assets/logo.png"><br>
-
 <h1 align="center"> Upstart Bot - codename "upstart.service" </h1>
 
 <p align="center">
